@@ -1,15 +1,14 @@
-stuxnet
+Stuxnet
 =======
+FORKED FOR SG TEAM. R&D ONLY!
 
-Eventually, this will be a comprehensive decompilation of Stuxnet.
+This is a fairly comprehensive decompilation of Stuxnet. (Credit to OP, see forked from)
 
-Eventually.
+For Eval and research only.
 
+Initial base project provided by https://github.com/Christian-Roggia/open-myrtus
 
-
-Initial base provided by https://github.com/Christian-Roggia/open-myrtus
-
-I've began using research provided by the following to assist in a (more) complete picture.
+OP began using research provided by the following to assist in getting a (more) complete picture.
 
 http://www.codeproject.com/Articles/246545/Stuxnet-Malware-Analysis-Paper
 https://www.esetnod32.ru/company/viruslab/analytics/doc/Stuxnet_Under_the_Microscope.pdf
